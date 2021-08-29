@@ -1,0 +1,13 @@
+.item {
+    background-color: rgb(185, 223, 245);
+    width: 140px;
+    height: 30px;
+    border:  1.5px solid rgb(155, 145, 247);
+}
+
+.item:hover{
+    background-color: rgb(240, 16, 147);
+    font-weight: bolder;
+    cursor: pointer;
+    text-align: center;
+}
